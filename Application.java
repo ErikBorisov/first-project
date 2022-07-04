@@ -35,7 +35,7 @@ public class Application {
                 }
                 default: {
                     System.out.println("Please input only 1 or 2");
-                    System.out.println("some changes");
+                    System.out.println("00000000000");
                 }
             }
 
